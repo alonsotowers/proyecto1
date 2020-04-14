@@ -1,2 +1,2 @@
 # proyecto1
-"echo Hola mundo"
+ 'Hola mundo'
